@@ -6,6 +6,7 @@ order: 4
 
 <p align="center">
 <h1 align="center">
+
 # Brandon Waite
 
 ### AWS Cloud Architect at the State of Indiana
