@@ -15,14 +15,12 @@ order: 4
 
 ## Skills
 
-| Leadership   | Development | Infrastructure |
-----------------------------------------------
-| Project Planning | CI/CD |Disaster Recovery   |
-|:Left-aligned |:Centered   :| Right-aligned:|
-|              | ← Blank   → |               |
-| Process Improvement  | CI/CD | Group Policy   |
-| Government Policy Writing  | Puppet | Active Directory   |
-| Government Policy Writing  | HTML | AWS   |
+| Leadership                 | Development | Infrastructure |
+| :----:                     |    :----:   |    :----:     |
+| Project Planning           | CI/CD       |Disaster Recovery |
+| Process Improvement        | CI/CD       | Group Policy   |
+| Policy                     | Puppet      | Active Directory   |
+| Audit and compliance       | HTML        | AWS   |
 
 
 
