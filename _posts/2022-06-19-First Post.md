@@ -20,21 +20,25 @@ The site was just going to have a basic processes design to get someone new up a
 ## CI/CD and Repo
 
 [AzureDevOPS](https://azure.dev.com)
+
 [Github](https://github.com/)
 
 ## AWS Amplify and HUGO 
 
 [AWS Amplify](https://aws.amazon.com/amplify/)
+
 [HUGO](https://gohugo.io/))
 
 ## Azure and HUGO
 
 [Azure](https://azure.microsoft.com/en-us/services/app-service/static/)
+
 [HUGO](https://gohugo.io/))
 
 ## Jekyll and Github Pages
 
 [Jekyll](https://jekyllrb.com/)
+
 [Github pages](https://pages.github.com/)
 
 ### Jekyll Install Dependencies
@@ -46,9 +50,13 @@ Homebrew - if you dont have this you should
 
 [Homebrew](https://brew.sh/)
 
+Homebrew Install 
+
 ```
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
+
+Jekyll Install 
 
 ```
 sudo apt update
