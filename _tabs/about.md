@@ -33,17 +33,11 @@ order: 4
 
 >AWS Certified Solutions Architect –
 Associate
-
-![AWSCertifiedSolutionsArchitectAssociate](https://brandonw.me/assets/images/awscsa.png)
-
 <img src="https://brandonw.me/assets/images/awscsa.png" alt="AWS CSAA" width="200"/>
 
 >Amazon Web Services Cloud
 Practitioner
-
-![AmazonWebServicesCloudPractitioner](https://brandonw.me/assets/images/awscp.png)
-
-<img src="https://brandonw.me/assets/images/awscp.png" alt="AWS CCP" width="100"/>
+<img src="https://brandonw.me/assets/images/awscp.png" alt="AWS CCP" width="200"/>
 
 ## Summary
 
