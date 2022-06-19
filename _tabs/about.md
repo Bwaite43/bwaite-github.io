@@ -7,31 +7,29 @@ order: 4
 
 # Brandon Waite
 
-### AWS Cloud Architect at the State of Indiana
+## AWS Enterprise Cloud Architect at the State of Indiana
 
-## Contact
+### Contact
+
 [Linkedin](http://www.linkedin.com/in/brandon-waite-5555a21b)
 
-## Top Skills
+## Skills
 
-
->Disaster Recovery
->Group Policy
->Active Directory
->AWS
->Azure
->Windows / Linux Servers
->System Deployment
->CI/CD
->Vmware / Proxmox
->Project Planning
->Process Improvement
->Government Policy Writing
->Enterprise Architecture
-
+*Disaster Recovery
+*Group Policy
+*Active Directory
+*AWS
+*Azure
+*Windows / Linux Servers
+*System Deployment
+*CI/CD
+*Vmware / Proxmox
+*Project Planning
+*Process Improvement
+*Government Policy Writing
+*Enterprise Architecture
 
 ## Certifications
-
 
 >AWS Certified Solutions Architect –
 Associate
@@ -54,22 +52,22 @@ Practitioner
 
 ## Experience
 
-### State of Indiana
+# State of Indiana
 
 >9 years 9 months
 
-### AWS Cloud Architect
+## AWS Enterprise Cloud Architect - Indiana Office of Technology
 
 >February 2020 - Present (2 years 5 months)
 >Indianapolis, Indiana Area
 
-### Deputy IT Director - Indiana Office of Technology
+## Deputy IT Director - Indiana Office of Technology
 
 >July 2016 - February 2020 (3 years 8 months)
 >Indianapolis, Indiana Area
 >Responsible for the management, strategy and execution of a 6,000 Server IT infrastructure across 5 teams.
 
-### Senior System Administrator
+## Senior System Administrator - Indiana Office of Technology
 
 >October 2012 - July 2016 (3 years 10 months)
 >Sr. Systems Administrator for FSSA's Snap,TANF, Medicaid, Hip 2.0 Public
@@ -77,7 +75,7 @@ Practitioner
 >Managing over 500 Servers including applications such as Oracle RAC, IBM
 >Websphere, Citrix Netscaler.
 
-### RCR Technology
+# RCR Technology
 
 ### Senior LAN Administrator
 
@@ -87,7 +85,7 @@ Practitioner
 >determination system for the State of Indiana’s 1.6 Billion Multi-vendor
 >Eligibility Modernization Project.
 
-### Eli Lilly and Company
+# Eli Lilly and Company
 
 ### System Analyst
 
