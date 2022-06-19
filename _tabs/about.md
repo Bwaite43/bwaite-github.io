@@ -4,11 +4,13 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+<p align="center">
+
 # Brandon Waite
+
 ### AWS Cloud Architect at the State of Indiana
 
 ## Contact
-
 [Linkedin](http://www.linkedin.com/in/brandon-waite-5555a21b)
 
 ## Top Skills
@@ -93,3 +95,4 @@ Researched software planned solutions and coordinated development
 process flow. Liaison between engineers, vendors and information
 technology professionals all with a variety of skill sets. Cost analysis, design
 considerations and all with-in given timelines.
+</p>
