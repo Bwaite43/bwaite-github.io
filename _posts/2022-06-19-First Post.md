@@ -45,7 +45,7 @@ The site was just going to have a basic processes design to get someone new up a
 
 Homebrew - if you dont have this you should
 
-![Homebrew](https://brew.sh/assets/img/homebrew-256x256.png)
+![Homebrew](https://brew.sh/assets/img/homebrew-256x256.png){ width=50% height=50% }
 
 
 [Homebrew](https://brew.sh/)

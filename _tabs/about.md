@@ -34,12 +34,12 @@ order: 4
 >AWS Certified Solutions Architect –
 Associate
 
-![AWSCertifiedSolutionsArchitectAssociate](https://brandonw.me/assets/images/awscsa.png)
+![AWSCertifiedSolutionsArchitectAssociate](https://brandonw.me/assets/images/awscsa.png){ width=50% height=50% }
 
 >Amazon Web Services Cloud
 Practitioner
 
-![AmazonWebServicesCloudPractitioner](https://brandonw.me/assets/images/awscp.png)
+![AmazonWebServicesCloudPractitioner](https://brandonw.me/assets/images/awscp.png){ width=50% height=50% }
 
 ## Summary
 
