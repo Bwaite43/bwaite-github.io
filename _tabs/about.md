@@ -33,12 +33,12 @@ Enterprise Architecture
 AWS Certified Solutions Architect –
 Associate
 
-![AWSCertifiedSolutionsArchitectAssociate](./assets/awscsa.png)
+![AWSCertifiedSolutionsArchitectAssociate](https://brandonw.me/assets/images/awscsa.png)
 
 Amazon Web Services Cloud
 Practitioner
 
-![AmazonWebServicesCloudPractitioner](./assets/awscp.png)
+![AmazonWebServicesCloudPractitioner](https://brandonw.me/assets/images/awscp.png)
 
 ## Summary
 
