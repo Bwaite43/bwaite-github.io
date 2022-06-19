@@ -8,7 +8,16 @@ tags: [Jekyll, github]
 
 # Static Site with Jekyll and Github Pages
 
-> Best way for me to learn is by just starting doing it.
+> Best way for me to learn is by just start doing it.
 {: .prompt-tip }
 
 This project started because I was looking to solve a problem at work with a documentation site. Thus down the rabbit hole this project was created. 
+
+I was looking at Hugo and Jekyll for an easy to host static webpage. Seemed straight forward enough , I have used gitbooks before and it wasnt much different. The goal was to create a document site that was only available to a internal CIDR range. We also needed to have a code repostory for version control and community contribution. I wanted to have this all in a CI/CD pipeline so that when someone made and update to documentation it redployed the site with the updated changes. 
+
+The site was just going to have a basic processes design to get someone new up and going, or where to look for xyz. I really didnt want to deal with authentication as it might be used by people without an account. Most of the people contributing to the site would be part of the technical team so learning markdown shouldn't be an issue. Templates would be made and instructions on how to clone the repo and update would be created. 
+
+## AWS Amplify and HUGO 
+
+[AWS Amplify](https://aws.amazon.com/amplify/)
+[HUGO](https://gohugo.io/))
