@@ -3,7 +3,7 @@ title: About
 icon: fas fa-info-circle
 order: 4
 ---
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 # Brandon Waite
 
@@ -25,6 +25,10 @@ order: 4
 
 [Linkedin](http://www.linkedin.com/in/brandon-waite-5555a21b)
 
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="brandon-waite-5555a21b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/brandon-waite-5555a21b?trk=profile-badge">Brandon Waite</a></div>
+
+
 ## Skills
 
 | Leadership                 | Development    | Infrastructure |
@@ -39,6 +43,8 @@ order: 4
 |                            |                | System Deployment  |
 |                            |                | Vmware  |
 |                            |                | Proxmox  |
+
+
 
 
 >Certifications
