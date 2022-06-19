@@ -39,8 +39,8 @@ order: 4
 | Audit and compliance       | Cloudformation | AWS   |
 | Contract negotiation       | Yaml           | Azure  |
 | 5M+ Budgets                | Json           | Windows  |
-| Performance KPI            |                | Linux  |
-| Vendor management          |                | System Deployment  |
+| Performance KPI            | Ansible        | Linux  |
+| Vendor management          | Docker         | System Deployment  |
 | Contractor managment       |                | Vmware  |
 |                            |                | Proxmox  |
 
