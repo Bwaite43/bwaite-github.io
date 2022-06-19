@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<p align="center">
-<h1 align="center">
 
 # Brandon Waite
 
@@ -16,8 +14,9 @@ order: 4
 
 ## Top Skills
 
-Disaster Recovery
-Group Policy
+<h1 align="center">
+//Disaster Recovery
+//Group Policy
 Active Directory
 AWS
 Azure
@@ -29,6 +28,7 @@ Project Planning
 Process Improvement
 Government Policy Writing
 Enterprise Architecture
+</h1>
 
 ## Certifications
 
@@ -96,5 +96,3 @@ Researched software planned solutions and coordinated development
 process flow. Liaison between engineers, vendors and information
 technology professionals all with a variety of skill sets. Cost analysis, design
 considerations and all with-in given timelines.
-</h1>
-</p>
