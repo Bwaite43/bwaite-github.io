@@ -53,13 +53,16 @@ order: 4
 >AWS Certified Solutions Architect –
 Associate
 
+<div style="text-align: left">
 <img src="https://brandonw.me/assets/images/awscsa.png" alt="AWS CSAA" width="150"/>
+</div>
 
 >Amazon Web Services Cloud
 Practitioner
 
+<div style="text-align: left">
 <img src="https://brandonw.me/assets/images/awscp.png" alt="AWS CCP" width="150"/>
-
+</div>
 
 >Experience
 {: .prompt-info }
@@ -74,6 +77,9 @@ Practitioner
 
 >February 2020 - Present (2 years 5 months)
 >Indianapolis, Indiana Area
+>Setup and created the State of Indiana AWS environment for Agencies to consume. Migrated monolithic
+>applications to serverless frameworks. Helped designed all AWS in house and vendor workloads to meet State
+>secuirty guidelines and best practices.
 
 
 ### Deputy IT Director - Indiana Office of Technology
