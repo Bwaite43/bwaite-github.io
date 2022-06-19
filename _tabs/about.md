@@ -15,19 +15,19 @@ order: 4
 
 ## Skills
 
-*Disaster Recovery
-*Group Policy
-*Active Directory
-*AWS
-*Azure
-*Windows / Linux Servers
-*System Deployment
-*CI/CD
-*Vmware / Proxmox
-*Project Planning
-*Process Improvement
-*Government Policy Writing
-*Enterprise Architecture
+* Disaster Recovery
+* Group Policy
+* Active Directory
+* AWS
+* Azure
+* Windows / Linux Servers
+* System Deployment
+* CI/CD
+* Vmware / Proxmox
+* Project Planning
+* Process Improvement
+* Government Policy Writing
+* Enterprise Architecture
 
 ## Certifications
 
