@@ -50,13 +50,15 @@ Homebrew - if you dont have this you should
 
 [Homebrew](https://brew.sh/)
 
-Homebrew Install 
+>Homebrew Install 
+{: .prompt-info }
 
 ```
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-Jekyll Install 
+>Jekyll Install 
+{: .prompt-info }
 
 ```
 sudo apt update
