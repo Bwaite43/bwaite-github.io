@@ -14,9 +14,9 @@ order: 4
 
 ## Top Skills
 
-<h1 align="center">
-//Disaster Recovery
-//Group Policy
+```
+Disaster Recovery
+Group Policy
 Active Directory
 AWS
 Azure
@@ -28,17 +28,18 @@ Project Planning
 Process Improvement
 Government Policy Writing
 Enterprise Architecture
-</h1>
+
+```
 
 ## Certifications
 
 
-AWS Certified Solutions Architect –
+>AWS Certified Solutions Architect –
 Associate
 
 ![AWSCertifiedSolutionsArchitectAssociate](https://brandonw.me/assets/images/awscsa.png)
 
-Amazon Web Services Cloud
+>Amazon Web Services Cloud
 Practitioner
 
 ![AmazonWebServicesCloudPractitioner](https://brandonw.me/assets/images/awscp.png)

@@ -37,3 +37,28 @@ The site was just going to have a basic processes design to get someone new up a
 [Jekyll](https://jekyllrb.com/)
 [Github pages](https://pages.github.com/)
 
+### Jekyll Install Dependencies
+
+Homebrew - if you dont have this you should
+
+[Homebrew](https://brew.sh/)
+
+```
+$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+``
+
+```
+sudo apt update
+sudo apt install ruby-full build-essential zlib1g-dev git
+```
+
+```
+echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+```
+
+```
+gem install jekyll bundler
+```
