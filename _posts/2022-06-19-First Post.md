@@ -41,11 +41,12 @@ The site was just going to have a basic processes design to get someone new up a
 
 Homebrew - if you dont have this you should
 
+![Homebrew](https://brew.sh/assets/img/homebrew-256x256.png)
 [Homebrew](https://brew.sh/)
 
 ```
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-``
+```
 
 ```
 sudo apt update
