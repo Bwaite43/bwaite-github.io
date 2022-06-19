@@ -9,35 +9,37 @@ order: 4
 
 ## AWS Enterprise Cloud Architect at the State of Indiana
 
-### Contact
+>Summary
+{: .prompt-info }
+
+>Over 20 years of analytical and direct leadership with strong
+>verbal and personal communication skills. Proactive approach
+>by identifying risks and managing them throughout the project.
+>Dedicated to maintaining a reputation built on quality, service, and
+>uncompromising ethics viewing continuous improvment as a way of
+>life – not an exception.
+
+
+>Contact
+{: .prompt-info }
 
 [Linkedin](http://www.linkedin.com/in/brandon-waite-5555a21b)
 
 ## Skills
 
-| Leadership                 | Development | Infrastructure |
-| :----:                     |    :----:   |    :----:     |
-| Project Planning           | CI/CD       |Disaster Recovery |
-| Process Improvement        | CI/CD       | Group Policy   |
-| Policy                     | Puppet      | Active Directory   |
-| Audit and compliance       | HTML        | AWS   |
+| Leadership                 | Development    | Infrastructure |
+| :----:                     |    :----:      |    :----:     |
+| Large Project Planning     | CI/CD          | Disaster Recovery |
+| Process Improvement        | Puppet         | Group Policy   |
+| Policy                     | HTML           | Active Directory   |
+| Audit and compliance       | Cloudformation | AWS   |
+|                            | Yaml           | Azure  |
+|                            |                | Windows  |
+|                            |                | Linux  |
+|                            |                | System Deployment  |
+|                            |                | Vmware  |
+|                            |                | Proxmox  |
 
-
-
-
-* Disaster Recovery
-* Group Policy
-* Active Directory
-* AWS
-* Azure
-* Windows / Linux Servers
-* System Deployment
-* CI/CD
-* Vmware / Proxmox
-* Project Planning
-* Process Improvement
-* Government Policy Writing
-* Enterprise Architecture
 
 >Certifications
 {: .prompt-info }
@@ -52,33 +54,28 @@ Practitioner
 
 <img src="https://brandonw.me/assets/images/awscp.png" alt="AWS CCP" width="200"/>
 
->Summary
-{: .prompt-info }
-
->Over 20 years of analytical and direct leadership with strong
->verbal and personal communication skills. Proactive approach
->by identifying risks and managing them throughout the project.
->Dedicated to maintaining a reputation built on quality, service, and
->uncompromising ethics viewing continuous improvment as a way of
->life – not an exception.
 
 >Experience
 {: .prompt-info }
 
+
 # State of Indiana
 
 >9 years 9 months
+
 
 ## AWS Enterprise Cloud Architect - Indiana Office of Technology
 
 >February 2020 - Present (2 years 5 months)
 >Indianapolis, Indiana Area
 
+
 ## Deputy IT Director - Indiana Office of Technology
 
 >July 2016 - February 2020 (3 years 8 months)
 >Indianapolis, Indiana Area
 >Responsible for the management, strategy and execution of a 6,000 Server IT infrastructure across 5 teams.
+
 
 ## Senior System Administrator - Indiana Office of Technology
 
@@ -87,6 +84,7 @@ Practitioner
 >Assistance systems.
 >Managing over 500 Servers including applications such as Oracle RAC, IBM
 >Websphere, Citrix Netscaler.
+
 
 # RCR Technology
 
@@ -97,6 +95,7 @@ Practitioner
 >nation’s first successful large-scale Curam software-based benefits
 >determination system for the State of Indiana’s 1.6 Billion Multi-vendor
 >Eligibility Modernization Project.
+
 
 # Eli Lilly and Company
 
