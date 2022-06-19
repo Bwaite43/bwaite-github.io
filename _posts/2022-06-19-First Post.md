@@ -3,7 +3,7 @@ title: First Post
 author: Brandon Waite
 date: 2022-06-19 00:00:00 +0800
 categories: [Blogging, Tutorial]
-tags: [Jekyll, github]
+tags: [Jekyll, Github, HUGO, AWS, Azure]
 ---
 
 # Static Site with Jekyll and Github Pages
