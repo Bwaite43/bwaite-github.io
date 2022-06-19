@@ -24,10 +24,9 @@ order: 4
 {: .prompt-info }
 
 
-
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="brandon-waite-5555a21b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/brandon-waite-5555a21b?trk=profile-badge"></a></div>
 
-
+&nbsp;&nbsp;&nbsp;
 
 >Skills
 {: .prompt-info }
