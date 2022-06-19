@@ -7,96 +7,115 @@ order: 4
 > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip }
 
-Brandon Waite
-============
+# Brandon Waite
+### AWS Cloud Architect at the State of Indiana
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+## Contact
 
-Education
----------
+```
+http://www.linkedin.com/in/brandon-
+waite-5555a21b (LinkedIn)
+```
+## Top Skills
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+```
+Disaster Recovery
+Group Policy
+Active Directory
+AWS
+Azure
+Windows / Linux Servers
+System Deployment
+CI/CD
+Vmware / Proxmox
+Project Planning
+Process Improvement
+Government Policy Writing
+Enterprise Architecture
+```
+## Certifications
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+```
+AWS Certified Solutions Architect –
+Associate
+Amazon Web Services Cloud
+Practitioner
+```
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+## Summary
 
-    *Minor: Awesomeology*
+### Over 15 years of analytical and direct leadership with strong
 
-Experience
-----------
+### verbal and personal communication skills. Proactive approach
 
-**Your Most Recent Work Experience:**
+### by identifying risks and managing them throughout the project.
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+### Dedicated to maintaining a reputation built on quality, service, and
 
-* First item
+### uncompromising ethics viewing continuous improvment as a way of
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+### life – not an exception.
 
-**That Other Job You Had**
+## Experience
 
-Also with a short description.
+### State of Indiana
 
-Technical Experience
---------------------
+```
+9 years 9 months
+```
+### AWS Cloud Architect
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+```
+February 2020 - Present (2 years 5 months)
+Indianapolis, Indiana Area
+```
+### Deputy IT Director - Indiana Office of Technology
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+```
+July 2016 - February 2020 (3 years 8 months)
+Indianapolis, Indiana Area
+Responsible for the management, strategy and execution of a 6,000 Server IT infrastructure across 5 teams.
+```
+### Senior System Administrator
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+```
+October 2012 - July 2016 (3 years 10 months)
+Sr. Systems Administrator for FSSA's Snap,TANF, Medicaid, Hip 2.0 Public
+Assistance systems.
+Managing over 500 Servers including applications such as Oracle RAC, IBM
+Websphere, Citrix Netscaler.
+```
+### RCR Technology
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+### Senior LAN Administrator
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+```
+January 2009 - October 2012 (3 years 10 months)
+Lead Tech of operations, system and application support team of the
+nation’s first successful large-scale Curam software-based benefits
+determination system for the State of Indiana’s 1.6 Billion Multi-vendor
+Eligibility Modernization Project.
+```
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+### Eli Lilly and Company
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+### System Analyst
 
-[ref]: https://github.com/githubuser/superlongprojectname
+```
+March 2008 - October 2008 (8 months)
+Researched software planned solutions and coordinated development
+process flow. Liaison between engineers, vendors and information
+technology professionals all with a variety of skill sets. Cost analysis, design
+considerations and all with-in given timelines.
+```
+### KECO Engineered Coatings
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+### Quality Manager / Network Administrator
 
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+```
+February 2006 - February 2008 (2 years 1 month)
+Develop, implemented, communicated and maintained a quality plan to bring
+the company’s Quality system and policies into compliance with ISO / AS
+international standards. Responsible for maintenance of computer hardware
+and software environment.
+```
