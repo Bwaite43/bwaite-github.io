@@ -15,6 +15,18 @@ order: 4
 
 ## Skills
 
+| Leadership   | Development | Infrastructure |
+----------------------------------------------
+| Project Planning | CI/CD |Disaster Recovery   |
+|:Left-aligned |:Centered   :| Right-aligned:|
+|              | ← Blank   → |               |
+| Process Improvement  | CI/CD | Group Policy   |
+| Government Policy Writing  | Puppet | Active Directory   |
+| Government Policy Writing  | HTML | AWS   |
+
+
+
+
 * Disaster Recovery
 * Group Policy
 * Active Directory
@@ -29,7 +41,8 @@ order: 4
 * Government Policy Writing
 * Enterprise Architecture
 
-## Certifications
+>Certifications
+{: .prompt-info }
 
 >AWS Certified Solutions Architect –
 Associate
@@ -41,7 +54,8 @@ Practitioner
 
 <img src="https://brandonw.me/assets/images/awscp.png" alt="AWS CCP" width="200"/>
 
-## Summary
+>Summary
+{: .prompt-info }
 
 >Over 20 years of analytical and direct leadership with strong
 >verbal and personal communication skills. Proactive approach
@@ -50,7 +64,8 @@ Practitioner
 >uncompromising ethics viewing continuous improvment as a way of
 >life – not an exception.
 
-## Experience
+>Experience
+{: .prompt-info }
 
 # State of Indiana
 
