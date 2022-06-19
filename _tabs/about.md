@@ -35,13 +35,13 @@ order: 4
 | :----:                     |    :----:      |    :----:     |
 | Large Project Planning     | CI/CD          | Disaster Recovery |
 | Process Improvement        | Puppet         | Group Policy   |
-| Policy                     | HTML           | Active Directory   |
+| Goverment Policy           | HTML           | Active Directory   |
 | Audit and compliance       | Cloudformation | AWS   |
-|                            | Yaml           | Azure  |
-|                            |                | Windows  |
-|                            |                | Linux  |
-|                            |                | System Deployment  |
-|                            |                | Vmware  |
+| Contract negotiation       | Yaml           | Azure  |
+| 5M+ Budgets                | Json           | Windows  |
+| Performance KPI            |                | Linux  |
+| Vendor management          |                | System Deployment  |
+| Contractor managment       |                | Vmware  |
 |                            |                | Proxmox  |
 
 
