@@ -17,7 +17,23 @@ I was looking at Hugo and Jekyll for an easy to host static webpage. Seemed stra
 
 The site was just going to have a basic processes design to get someone new up and going, or where to look for xyz. I really didnt want to deal with authentication as it might be used by people without an account. Most of the people contributing to the site would be part of the technical team so learning markdown shouldn't be an issue. Templates would be made and instructions on how to clone the repo and update would be created. 
 
+## CI/CD and Repo
+
+[AzureDevOPS](https://azure.dev.com)
+[Github](https://github.com/)
+
 ## AWS Amplify and HUGO 
 
 [AWS Amplify](https://aws.amazon.com/amplify/)
 [HUGO](https://gohugo.io/))
+
+## Azure and HUGO
+
+[Azure](https://azure.microsoft.com/en-us/services/app-service/static/)
+[HUGO](https://gohugo.io/))
+
+## Jekyll and Github Pages
+
+[Jekyll](https://jekyllrb.com/)
+[Github pages](https://pages.github.com/)
+
