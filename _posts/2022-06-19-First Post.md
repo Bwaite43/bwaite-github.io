@@ -1,5 +1,5 @@
 ---
-title: First Post Jekyll and Github Pages
+title: First Post! Jekyll and Github Pages
 author: Brandon Waite
 date: 2022-06-19 00:00:00 +0800
 categories: [Blogging, Tutorial]
@@ -48,7 +48,7 @@ $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/
 >Jekyll Dependencies Installs 
 {: .prompt-info }
 
->Installing this with a M1 Mac is a little..well a Pain in the ass. It will require a few different commands to update things. Ill write up more on this later.
+>Installing this with a M1 Mac is a little... well a pain in the ass. It will require a few different commands to update things. Ill write up more on this later.
 {: .prompt-danger }
 
 >Install chruby and ruby-install with Homebrew
@@ -62,15 +62,17 @@ brew install chruby ruby-install
 ruby-install ruby
 ```
 
->Check which shell your using with the command echo $SHELL
+>Check which shell your using with the command - echo $SHELL
 {: .prompt-tip }
 
 >Configure your Shell (.zshrc) to use chruby
+
 ```
 echo "source $(brew --prefix)/opt/chruby/share/chruby/chruby.sh" >> ~/.zshrc
 echo "source $(brew --prefix)/opt/chruby/share/chruby/auto.sh" >> ~/.zshrc
 echo "chruby ruby-3.1.1" >> ~/.zshrc
 ```
+
 >Configure your Shell (.bash_profile) to use chruby
 
 ```
@@ -78,7 +80,9 @@ echo "source $(brew --prefix)/opt/chruby/share/chruby/chruby.sh" >> ~/.bash_prof
 echo "source $(brew --prefix)/opt/chruby/share/chruby/auto.sh" >> ~/.bash_profile
 echo "chruby ruby-3.1.1" >> ~/.bash_profile
 ```
+
 >Quit and relaunch Terminal to make sure everything is working.
+
 ```
 ruby -v
 ```
@@ -89,6 +93,7 @@ ruby -v
 ```
 gem install jekyll
 ```
+
 >Build your first site 
 {: .prompt-info }
 
