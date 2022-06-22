@@ -19,8 +19,6 @@ The site was just going to have a basic processes design to get someone new up a
 
 ## CI/CD and Repo
 
-[AzureDevOPS](https://azure.dev.com)
-
 [Github](https://github.com/)
 
 ## Jekyll and Github Pages
@@ -116,3 +114,41 @@ bundle exec jekyll serve
 ```
 
 If everything goes correctly you should be able to see your site at http://localhost:4000
+
+## Github Pages
+
+So now that you have your Jekyll Site created lets host it. I used github for my repositories, so were going to use github action and github pages for hosting the site. 
+
+Copy all the files from the directory that Jekyll created when you made a new site. Dont worry about adding content yet. lets just make sure we can get the site deployed first.
+
+inside the repo for the Jekyll site go into settings. Then click on the pages tab.
+
+<div style="text-align: center">
+<img src="https://brandonw.me/assets/images/pages1.jpg" alt="githubpages"/>
+</div>
+
+For the Source pick the master branch and click save. This should start the process of deploying your jekyll site to github pages.
+
+>If you want to add a custom domain create 4 A records for the following ip address in your domain or hosting provider.
+{: .prompt-tip }
+
+```
+185.199.108.153
+185.199.109.153
+185.199.110.153
+185.199.111.153
+```
+
+Once you click save on the pages tab you should be able to switch over to the Actions tab at the top of the repo and see the site start building.
+
+<div style="text-align: center">
+<img src="https://brandonw.me/assets/images/pages2.jpg" alt="githubpages2"/>
+</div>
+
+
+Once completed you should see your sites url in the github page settings. If you didnt use a custom domain it may look something like 
+
+>Your site is ready to be published at https://yourgithub.github.io/site/
+{: .prompt-info }
+
+Once you verify everything is working, you can now use your IDE to clone and make updates. Each time you update your repo github pages will redeploy the site with the updated changes.
