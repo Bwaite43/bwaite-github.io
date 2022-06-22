@@ -129,7 +129,7 @@ inside the repo for the Jekyll site go into settings. Then click on the pages ta
 
 For the Source pick the master branch and click save. This should start the process of deploying your jekyll site to github pages.
 
->If you want to add a custom domain create 4 A records for the following ip address in your domain or hosting provider.
+>If you want to add a custom domain create 4 A records for the following ip address in your domain registrar or hosting provider.
 {: .prompt-tip }
 
 ```
