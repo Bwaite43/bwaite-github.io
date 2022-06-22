@@ -31,7 +31,6 @@ So were off on a mission to migrate over to proxmox, I cant use the already runn
     <tr>
       <th>Type</th>
       <th>Item</th>
-      <th>Price</th>
     </tr>
   </thead>
   <tbody>
