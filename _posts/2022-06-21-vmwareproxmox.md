@@ -7,13 +7,11 @@ tags: [Vmware, Proxmox]
 ---
 
 
-## Vmware to Proxmox
+## Vmware to Proxmox The Big Migration 
 
 [Vmware](https://www.vmware.com/)
 
 [Proxmox](https://www.proxmox.com//)
-
-# The Big Migration 
 
 
 <div style="text-align: center">
