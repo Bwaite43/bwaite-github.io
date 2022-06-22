@@ -23,7 +23,7 @@ While Vmware was really good for my homelab it was getting to be an effort. I us
 <img src="https://brandonw.me/assets/images/proxmox.png" alt="proxmox"/>
 </div>
 
-So were off on a mission to migrate over to proxmox, I cant use the already running Vmware environment as I have servers running on both ESXI hosts and the memory is maxed out. Time to test out building out a new server with hardware I wanted.
+So were off on a mission to migrate over to proxmox, I can't use the already running Vmware environment as I have servers running on both ESXI hosts and the memory is maxed out. Time to test out building a new server with hardware I wanted.
 
 <a href="https://pcpartpicker.com/list/9bmtW4">PCPartPicker Part List</a>
 <table class="pcpp-part-list">
