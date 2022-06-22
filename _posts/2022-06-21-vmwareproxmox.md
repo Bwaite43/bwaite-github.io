@@ -73,7 +73,6 @@ So were off on a mission to migrate over to proxmox, I cant use the already runn
     <tr>
       <td class="pcpp-part-list-type">Power Supply</td>
       <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/FPYmP6/corsair-rm-2021-850-w-80-gold-certified-fully-modular-atx-power-supply-cp-9020235-na">Corsair RM (2021) 850 W 80+ Gold Certified Fully Modular ATX Power Supply</a></td>
-      </td>
     </tr>
     <tr>
       <td class="pcpp-part-list-type">Wired Network Adapter</td>
