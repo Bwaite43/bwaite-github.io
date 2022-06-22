@@ -1,5 +1,5 @@
 ---
-title: First Post
+title: First Post Jekyll and Github Pages
 author: Brandon Waite
 date: 2022-06-19 00:00:00 +0800
 categories: [Blogging, Tutorial]
@@ -48,7 +48,7 @@ $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/
 >Jekyll Dependencies Installs 
 {: .prompt-info }
 
->Installing this with a M1 Mac is a little differnt. It will require a few different commands to update things. Ill write up more on this later.
+>Installing this with a M1 Mac is a little..well a Pain in the ass. It will require a few different commands to update things. Ill write up more on this later.
 {: .prompt-danger }
 
 >Install chruby and ruby-install with Homebrew
