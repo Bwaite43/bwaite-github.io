@@ -23,18 +23,6 @@ The site was just going to have a basic processes design to get someone new up a
 
 [Github](https://github.com/)
 
-## AWS Amplify and HUGO 
-
-[AWS Amplify](https://aws.amazon.com/amplify/)
-
-[HUGO](https://gohugo.io/))
-
-## Azure and HUGO
-
-[Azure](https://azure.microsoft.com/en-us/services/app-service/static/)
-
-[HUGO](https://gohugo.io/))
-
 ## Jekyll and Github Pages
 
 [Jekyll](https://jekyllrb.com/)
