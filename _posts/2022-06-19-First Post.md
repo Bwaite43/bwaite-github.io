@@ -43,36 +43,83 @@ The site was just going to have a basic processes design to get someone new up a
 
 ### Jekyll Install Dependencies
 
-Homebrew - if you dont have this you should
-
-<div style="text-align: left">
-<img src="https://brew.sh/assets/img/homebrew-256x256.png" alt="Homebrew" width="100"/>
-</div>
-
-[Homebrew](https://brew.sh/)
 
 >Homebrew Install 
 {: .prompt-info }
 
+Homebrew - if you dont have this you should
+
+<div style="text-align: center">
+<img src="https://brew.sh/assets/img/homebrew-256x256.png" alt="Homebrew" width="100"/>
+</div>
+
 ```
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+>Jekyll Dependencies Installs 
+{: .prompt-info }
+
+>Installing this with a M1 Mac is a little differnt. It will require a few different commands to update things. Ill write up more on this later.
+{: .prompt-danger }
+
+>Install chruby and ruby-install with Homebrew
+
+```
+brew install chruby ruby-install
+```
+>Install the latest stable version of Ruby
+
+```
+ruby-install ruby
+```
+
+>Check which shell your using with the command echo $SHELL
+{: .prompt-tip }
+
+>Configure your Shell (.zshrc) to use chruby
+```
+echo "source $(brew --prefix)/opt/chruby/share/chruby/chruby.sh" >> ~/.zshrc
+echo "source $(brew --prefix)/opt/chruby/share/chruby/auto.sh" >> ~/.zshrc
+echo "chruby ruby-3.1.1" >> ~/.zshrc
+```
+>Configure your Shell (.bash_profile) to use chruby
+
+```
+echo "source $(brew --prefix)/opt/chruby/share/chruby/chruby.sh" >> ~/.bash_profile
+echo "source $(brew --prefix)/opt/chruby/share/chruby/auto.sh" >> ~/.bash_profile
+echo "chruby ruby-3.1.1" >> ~/.bash_profile
+```
+>Quit and relaunch Terminal to make sure everything is working.
+```
+ruby -v
 ```
 
 >Jekyll Install 
 {: .prompt-info }
 
 ```
-sudo apt update
-sudo apt install ruby-full build-essential zlib1g-dev git
+gem install jekyll
 ```
+>Build your first site 
+{: .prompt-info }
+
+Creating a new site only has a few simple steps. This will create a site at ./mysite
 
 ```
-echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
-echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
-echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
-source ~/.bashrc
+jekyll new mysite
 ```
 
+Go into the directory that was created.
+
 ```
-gem install jekyll bundler
+cd mysite
 ```
+
+Build the site and launch it locally
+
+```
+bundle exec jekyll serve
+```
+
+If everything goes correctly you should be able to see your site at http://localhost:4000
