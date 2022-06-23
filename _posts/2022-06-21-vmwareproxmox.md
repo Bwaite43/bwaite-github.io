@@ -101,7 +101,7 @@ I downloaded the ISO file and use a great program to write the ISO to a USB driv
 
 [Etcher](https://github.com/balena-io/etcher)
 
-The hard drive setup would be as follow using ZFS. 
+The hard drive setup would be as the following using ZFS. 
 
 850 EVO 250gb - Proxmox install
 
