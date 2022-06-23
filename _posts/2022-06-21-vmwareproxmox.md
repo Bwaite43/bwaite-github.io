@@ -14,7 +14,7 @@ tags: [Vmware, Proxmox]
 </div>
 
 
-While Vmware was really good for my homelab it was getting to be an effort. I used Vmware's Vmug program to test out different vmware products like NSX, vRA, and ESXI products. We are a big VMware shop at work and I wanted to test out building and breaking things without the VMware Admins getting mad at me. I set out to automate and deploy Windows and linux servers with a front end website to request builds following up with something that could enforce configuration changes like puppet . This worked great for my homelab for a good 5 years but it was getting old paying the subscription fee for vmug and having to find specific hardware or modify the boot config to deploy ESXI on hardware I had around the house. We also had the solution deployed at work so the need to figure out how it all works together was done plus I was over being restricted around server hardware. Time for a switch....
+While Vmware was really good for my homelab it was getting to be an effort. I used Vmware's Vmug program to test out different vmware products like NSX, vRA, and ESXI products. We are a big VMware shop at work and I wanted to test out building and breaking things without the VMware Admins getting mad at me. I set out to automate and deploy Windows and linux servers with a front end website to request builds following up with something that could enforce configuration changes like puppet. This worked great for my homelab for a good 5 years but it was getting old paying the subscription fee for vmug and having to find specific hardware or modify the boot config to deploy ESXI on hardware I had around the house. We also had the solution deployed at work so the need to figure out how it all works together was done plus I was over being restricted around server hardware. Time for a switch....
 
 
 ## In comes Proxmox
@@ -84,6 +84,43 @@ So were off on a mission to migrate over to proxmox, I can't use the already run
     </tr>
   </tbody>
 </table>
+
+# Install of Proxmox
+
+Proxmox was more or less a straight forward of a install. I did run into a few issues with the motherboard I bought. For some reason the first bootup it required a GPU even though it had built in HDMI. Good thing I had my daughter's old pc still around and I was able to pull the old GPU from it and start the boot process in to the bios to turn on SVM for virtualization and install proxmox.
+
+I started off grabing the latest Proxmox VE ISO
+
+[Proxmox ISO](https://www.proxmox.com/en/downloads/category/iso-images-pve)
+
+Proxmox has great documentation, Im not even going to try go over all of it but if you follow this guide you should be just fine.
+
+[Proxmox Install](https://pve.proxmox.com/wiki/Installation)
+
+I downloaded the ISO file and use a great program to write the ISO to a USB drive. 
+
+[Etcher](https://github.com/balena-io/etcher)
+
+The hard drive setup would be as follow using ZFS. 
+
+850 EVO 250gb - Proxmox install
+
+850 EVO 1TB - Virtual machines 
+850 EVO 1TB - Virtual machines
+
+Seagate 2TB - VM Templates, Containers, Container Templates
+
+I also have a DS920+ that I use for all my other backups. So it made sense to store any templates, ISO , and Image backups here. This was done by just creating a SMB/CIFS share in proxmox. 
+
+So far so good. I created my first windows and Ubuntu Server templates. Setup backups jobs and recreated a few easy virtual machines I had running on the old ESXI hosts. I have a few that I need to move over but I wanted to try out the conversion process listed below. I need to save that for another weekend when I can migrate and move the old Vmware servers into the Proxmox Datacenter. 
+
+[Migration of servers to Proxmox VE](https://pve.proxmox.com/wiki/Migration_of_servers_to_Proxmox_VE)
+
+So far the setup is running great. IO delay is really low and overall performance has been most excellent!
+
+<div style="text-align: center">
+<img src="https://brandonw.me/assets/images/bt.jpg" alt="bt"/>
+</div>
 
 >Links
 {: .prompt-info }
