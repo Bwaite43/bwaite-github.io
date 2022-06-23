@@ -75,7 +75,7 @@ Practitioner
 
 ### AWS Enterprise Cloud Architect - Indiana Office of Technology
 
->February 2020 - Present (2 years 5 months)
+>February 2020 - Present
 >Indianapolis, Indiana Area
 >Setup and created the State of Indiana AWS environment for Agencies to consume. Migrated monolithic
 >applications to serverless frameworks. Helped designed all AWS in house and vendor workloads to meet State
