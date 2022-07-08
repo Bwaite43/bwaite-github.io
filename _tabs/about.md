@@ -76,11 +76,15 @@ Practitioner
 ### AWS Enterprise Cloud Architect - Indiana Office of Technology
 
 >February 2020 - Present
->Indianapolis, Indiana Area
->Setup and created the State of Indiana AWS environment for Agencies to consume. Migrated monolithic
->applications to serverless frameworks. Helped designed all AWS in house and vendor workloads to meet State
->secuirty guidelines and best practices.
+>Indianapolis, Indiana
 
+>Responsible for the creation of the State of Indiana’s AWS environment. Served as the technical and business 
+>professional to help Agencies migrate workloads to AWS. Created State Cloud strategies and process to ensure 
+>successful cloud transitions. Worked with State contracting and procurement process to ensure AWS services 
+>and partners were available for all State resources to consume. Created and maintained project related 
+>documentation (Statement of work documents, Proof of concept documents, technical design documents). 
+>Implemented various big data , highly available and scalable systems with cloud formation using services such 
+>as Route53, EC2, S3, SNS and RDS. 
 
 ### Deputy IT Director - Indiana Office of Technology
 
