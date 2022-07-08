@@ -90,16 +90,26 @@ Practitioner
 
 >July 2016 - February 2020 (3 years 8 months)
 >Indianapolis, Indiana Area
->Responsible for the management, strategy and execution of a 6,000 Server IT infrastructure across 5 teams.
+
+>Responsible for the management, strategy and execution of the State of Indiana’s Windows, Unix, and 
+>Operational Security teams. Managed a 5 million dollar budget for the department that oversaw many technical 
+>projects, requisition of procurements, contracts and statement of work for vendors and State workers. Developed 
+>and implemented polices and goals for the department to improve services such as, the States server build 
+>process by using automation. Improved the State of Indiana external defence with geo-blocking, DDOS and ipintelligence strategy. Worked 
+>with every State Agency to ensure successful business driven applications 
+>launches were a success.
 
 
 ### Senior System Administrator - Indiana Office of Technology
 
 >October 2012 - July 2016 (3 years 10 months)
->Sr. Systems Administrator for FSSA's Snap,TANF, Medicaid, Hip 2.0 Public
->Assistance systems.
->Managing over 500 Servers including applications such as Oracle RAC, IBM
->Websphere, Citrix Netscaler.
+
+>Responsible for the technical design , planning , implementation, and the highest level of performance tuning 
+>and recovery procedures for mission critical enterprise systems for FSSA Division of Family Resources. Served as 
+>a technical expert in the area of system administration, security patches, NetScaler proxy configuration/load 
+>balancing and firewall configuration to meet NIST, MARS-E 2.0, HIPAA standards. Developed State of Indiana 
+>first Global load site balancing configuration for disaster recovery efforts. 
+
 
 
 # RCR Technology
@@ -107,10 +117,23 @@ Practitioner
 ### Senior LAN Administrator
 
 >January 2009 - October 2012 (3 years 10 months)
->Lead Tech of operations, system and application support team of the
->nation’s first successful large-scale Curam software-based benefits
->determination system for the State of Indiana’s 1.6 Billion Multi-vendor
->Eligibility Modernization Project.
+
+>Lead Tech of operations, system and application support team of the nation’s first successful large-scale Curam 
+>software-based benefits determination system for the State of Indiana’s $1.6 Billion Multi-vendor Eligibility 
+>Modernization Project. Successfully implemented efficient time critical solutions during prime contractor disengagement. 
+>Lead Tech for more than 80% of the State Of Indiana’s “Hybrid” Rollout system. 
+>Facilitated seamless cutovers of new VoIP, desktop hardware, and software system across the entire 
+>State Of Indiana including State offices, call centres and partner sites. 
+>State-wide disaster & emergency response site setup and implementation team. 
+>Identified cross-functional team problems and solutions with all partners on the project. 
+>Migrated more than 50% of the users to State of Indiana Domain user accounts. 
+>Developed strategies to improve document scan server solutions in a 5,000 user environment. 
+>Utilized a vendor help desk solution to resolve problems more efficiently. 
+>Successfully identified time critical application upgrade issues within the project timeline. 
+>Focused on creating a team based “hub” solution for all partners involved in the project. 
+>Improved partner relationships by creating joint responsibility on the project. 
+>Provided support Q&A details to team to better improve rollout success ratio. 
+>Successfully identified Curam application issues on a desktop, server and development level.
 
 
 # Eli Lilly and Company
@@ -118,7 +141,12 @@ Practitioner
 ### System Analyst
 
 >March 2008 - October 2008 (8 months)
->Researched software planned solutions and coordinated development
->process flow. Liaison between engineers, vendors and information
->technology professionals all with a variety of skill sets. Cost analysis, design
->considerations and all with-in given timelines.
+
+>Researched software planned solutions and coordinated development process flow. Liaison between engineers, 
+>vendors, and information technology professionals all with a variety of skill sets. Cost analysis, design 
+>considerations and all with-in given timelines. 
+>Implemented new software to be used in automated installs for clients. 
+>Upgraded mission-critical servers from 2000 to 2003. 
+>Create new documentation process flow for installation of software applications. 
+>Successfully migrated 14 engineer software application upgrades. 
+>Developed a process flow by listening to end users, IT support and application developers. 
