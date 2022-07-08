@@ -76,7 +76,6 @@ Practitioner
 ### AWS Enterprise Cloud Architect - Indiana Office of Technology
 
 >February 2020 - Present
->Indianapolis, Indiana
 
 >Responsible for the creation of the State of Indiana’s AWS environment. Served as the technical and business 
 >professional to help Agencies migrate workloads to AWS. Created State Cloud strategies and process to ensure 
@@ -88,8 +87,7 @@ Practitioner
 
 ### Deputy IT Director - Indiana Office of Technology
 
->July 2016 - February 2020 (3 years 8 months)
->Indianapolis, Indiana Area
+>July 2016 - February 2020
 
 >Responsible for the management, strategy and execution of the State of Indiana’s Windows, Unix, and 
 >Operational Security teams. Managed a 5 million dollar budget for the department that oversaw many technical 
@@ -102,7 +100,7 @@ Practitioner
 
 ### Senior System Administrator - Indiana Office of Technology
 
->October 2012 - July 2016 (3 years 10 months)
+>October 2012 - July 2016
 
 >Responsible for the technical design , planning , implementation, and the highest level of performance tuning 
 >and recovery procedures for mission critical enterprise systems for FSSA Division of Family Resources. Served as 
@@ -116,7 +114,7 @@ Practitioner
 
 ### Senior LAN Administrator
 
->January 2009 - October 2012 (3 years 10 months)
+>January 2009 - October 2012
 
 >Lead Tech of operations, system and application support team of the nation’s first successful large-scale Curam 
 >software-based benefits determination system for the State of Indiana’s $1.6 Billion Multi-vendor Eligibility 
@@ -140,7 +138,7 @@ Practitioner
 
 ### System Analyst
 
->March 2008 - October 2008 (8 months)
+>March 2008 - October 2008
 
 >Researched software planned solutions and coordinated development process flow. Liaison between engineers, 
 >vendors, and information technology professionals all with a variety of skill sets. Cost analysis, design 
