@@ -69,14 +69,14 @@ Practitioner
 
 >February 2020 - Present
 
->#### Architected and Established the State of Indiana's AWS Ecosystem
->#### Infrastructure Leadership:
-Took the helm in designing and deploying the State of Indiana's AWS infrastructure, setting the foundation for future cloud-based initiatives.
->#### Agency Collaboration:
-Acted as the primary technical and business liaison, guiding agencies through the intricacies of AWS migration. This ensured that each migration was tailored to the agency's unique needs, resulting in optimized performance and cost savings.
+#### Architected and Established the State of Indiana's AWS Ecosystem
+#### Infrastructure Leadership:
+>Took the helm in designing and deploying the State of Indiana's AWS infrastructure, setting the foundation for future cloud-based initiatives.
+#### Agency Collaboration:
+>Acted as the primary technical and business liaison, guiding agencies through the intricacies of AWS migration. This ensured that each migration was tailored to the agency's unique needs, resulting in optimized performance and cost savings.
 
->#### Strategic Cloud Roadmap:
-Developed and implemented state-wide cloud strategies. These blueprints not only facilitated smooth transitions to the cloud but also ensured that the state's digital assets were future-proofed against evolving technological landscapes.
+#### Strategic Cloud Roadmap:
+>Developed and implemented state-wide cloud strategies. These blueprints not only facilitated smooth transitions to the cloud but also ensured that the state's digital assets were future-proofed against evolving technological landscapes.
 
 >#### Procurement Partnership:
 Worked hand-in-hand with the state's contracting and procurement teams. This collaboration ensured that every state department had unhindered access to the full suite of AWS services, as well as the expertise of affiliated partners.
