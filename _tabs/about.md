@@ -36,8 +36,8 @@ order: 4
 | 5M+ Budgets                | Json           | Windows  |
 | Performance KPI            | Ansible        | Linux  |
 | Vendor management          | Docker         | System Deployment  |
-| Contractor managment       |                | Vmware  |
-|                            |                | Proxmox  |
+| Contractor managment       | AI             | Vmware  |
+|                            | LLM            | Proxmox  |
 
 
 
@@ -64,9 +64,6 @@ Practitioner
 
 
 # State of Indiana
-
->9 years 9 months
-
 
 ### AWS Enterprise Cloud Architect - Indiana Office of Technology
 
