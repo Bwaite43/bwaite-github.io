@@ -69,37 +69,56 @@ Practitioner
 
 >February 2020 - Present
 
->Responsible for the creation of the State of Indiana’s AWS environment. Served as the technical and business 
->professional to help Agencies migrate workloads to AWS. Created State Cloud strategies and process to ensure 
->successful cloud transitions. Worked with State contracting and procurement process to ensure AWS services 
->and partners were available for all State resources to consume. Created and maintained project related 
->documentation (Statement of work documents, Proof of concept documents, technical design documents). 
->Implemented various big data , highly available and scalable systems with cloud formation using services such 
->as Route53, EC2, S3, SNS and RDS. 
+>Architected and Established the State of Indiana's AWS Ecosystem
+
+>Infrastructure Leadership: Took the helm in designing and deploying the State of Indiana's AWS infrastructure, setting the foundation for future cloud-based initiatives.
+
+>Agency Collaboration: Acted as the primary technical and business liaison, guiding agencies through the intricacies of AWS migration. This ensured that each migration was tailored to the agency's unique needs, resulting in optimized performance and cost savings.
+
+>Strategic Cloud Roadmap: Developed and implemented state-wide cloud strategies. These blueprints not only facilitated smooth transitions to the cloud but also ensured that the state's digital assets were future-proofed against evolving technological landscapes.
+
+>Procurement Partnership: Worked hand-in-hand with the state's contracting and procurement teams. This collaboration ensured that every state department had unhindered access to the full suite of AWS services, as well as the expertise of affiliated partners.
+
+>Documentation Excellence: Took ownership of creating a comprehensive set of project documents. From Statements of Work to Technical Design blueprints, every piece of documentation was meticulously crafted to provide clarity and direction for all stakeholders.
+
+>Big Data & Scalability: Pioneered the development of robust big data solutions on the AWS platform. By leveraging services like Route53, EC2, S3, SNS, and RDS, I ensured that these systems were not only highly available but also scalable to meet the state's growing data needs.
 
 ### Deputy IT Director - Indiana Office of Technology
 
 >July 2016 - February 2020
 
->Responsible for the management, strategy and execution of the State of Indiana’s Windows, Unix, and 
->Operational Security teams. Managed a 5 million dollar budget for the department that oversaw many technical 
->projects, requisition of procurements, contracts and statement of work for vendors and State workers. Developed 
->and implemented polices and goals for the department to improve services such as, the States server build 
->process by using automation. Improved the State of Indiana external defence with geo-blocking, DDOS and ipintelligence strategy. Worked 
->with every State Agency to ensure successful business driven applications 
->launches were a success.
+>Steered the State of Indiana's Windows, Unix, and Operational Security Divisions
+
+>Holistic Management: Assumed comprehensive responsibility for the strategy, management, and successful execution of the State of Indiana’s Windows, Unix, and Operational Security teams. This role required a balance of technical acumen, leadership, and strategic foresight.
+
+>Budgetary Oversight: Managed a substantial $10 million budget, ensuring fiscal responsibility while overseeing a myriad of technical projects. This involved meticulous allocation of funds, tracking expenditures, and ensuring maximum ROI for every dollar spent.
+
+>Procurement & Vendor Relations: Orchestrated the requisition of procurements, contracts, and statements of work, acting as the primary liaison between vendors and State workers. This ensured that all engagements were transparent, beneficial, and aligned with the state's objectives.
+
+>Policy & Goal Setting: Pioneered the development and implementation of departmental policies and objectives. A notable achievement was the revamp of the State's server build process, integrating automation to enhance efficiency and reduce human error.
+
+>Cybersecurity Enhancements: Elevated the State of Indiana's external defense mechanisms by introducing geo-blocking, DDoS mitigation, and IP intelligence strategies. These initiatives fortified the state's digital boundaries, ensuring data integrity and minimizing vulnerabilities.
+
+>Inter-Agency Collaboration: Engaged proactively with every State Agency, playing a pivotal role in ensuring that business-driven application launches were executed flawlessly. This involved understanding each agency's unique needs, coordinating resources, and ensuring technical compatibility.
 
 
 ### Senior System Administrator - Indiana Office of Technology
 
 >October 2012 - July 2016
 
->Responsible for the technical design , planning , implementation, and the highest level of performance tuning 
->and recovery procedures for mission critical enterprise systems for FSSA Division of Family Resources. Served as 
->a technical expert in the area of system administration, security patches, NetScaler proxy configuration/load 
->balancing and firewall configuration to meet NIST, MARS-E 2.0, HIPAA standards. Developed State of Indiana 
->first Global load site balancing configuration for disaster recovery efforts. 
+>Senior Systems Administrator for FSSA's Essential Public Assistance Platforms
 
+>Diverse System Management: As the Senior Systems Administrator, I was at the helm of FSSA's pivotal public assistance systems, encompassing SNAP, TANF, Medicaid, and Hip 2.0. This role required a comprehensive understanding of each platform's nuances and the capability to ensure their uninterrupted operation.
+
+>Extensive Server Oversight: Commanded the management and maintenance of an expansive array of over 500 servers. This vast infrastructure included the deployment and optimization of complex applications such as Oracle RAC, IBM Websphere, and Citrix Netscaler, ensuring they delivered peak performance consistently.
+
+>Performance Mastery: Championed the zenith of performance tuning for these indispensable systems. Beyond just maintaining optimal operation, I also architected and implemented recovery strategies to ensure system resilience and rapid recovery in the face of potential disruptions.
+
+>Technical Expertise & Consultancy: Recognized within the division as the paramount technical authority, especially in areas like system administration, security patching, and intricate system configurations. My counsel was pivotal in navigating intricate challenges and elevating the division's technical capabilities.
+
+>Security & Compliance Leadership: Spearheaded the meticulous configuration of our systems to align with rigorous standards such as NIST, MARS-E 2.0, and HIPAA. This entailed a blend of NetScaler proxy configurations, adept load balancing, and firewall setups, ensuring the division's digital assets remained both secure and compliant.
+
+>Innovative Disaster Recovery: Paved the way for the State of Indiana by developing its first-ever Global load site balancing configuration. This avant-garde initiative was a testament to proactive planning, designed explicitly to fortify the state's disaster recovery mechanisms.
 
 
 # RCR Technology
