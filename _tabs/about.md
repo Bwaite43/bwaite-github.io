@@ -69,22 +69,18 @@ Practitioner
 
 >February 2020 - Present
 
-#### Architected and Established the State of Indiana's AWS Ecosystem
+>#### Architected and Established the State of Indiana's AWS Ecosystem
 #### Infrastructure Leadership:
->Took the helm in designing and deploying the State of Indiana's AWS infrastructure, setting the foundation for future cloud-based initiatives.
+Took the helm in designing and deploying the State of Indiana's AWS infrastructure, setting the foundation for future cloud-based initiatives.
 #### Agency Collaboration:
->Acted as the primary technical and business liaison, guiding agencies through the intricacies of AWS migration. This ensured that each migration was tailored to the agency's unique needs, resulting in optimized performance and cost savings.
-
+Acted as the primary technical and business liaison, guiding agencies through the intricacies of AWS migration. This ensured that each migration was tailored to the agency's unique needs, resulting in optimized performance and cost savings.
 #### Strategic Cloud Roadmap:
 >Developed and implemented state-wide cloud strategies. These blueprints not only facilitated smooth transitions to the cloud but also ensured that the state's digital assets were future-proofed against evolving technological landscapes.
-
->#### Procurement Partnership:
+#### Procurement Partnership:
 Worked hand-in-hand with the state's contracting and procurement teams. This collaboration ensured that every state department had unhindered access to the full suite of AWS services, as well as the expertise of affiliated partners.
-
->#### Documentation Excellence:
+#### Documentation Excellence:
 Took ownership of creating a comprehensive set of project documents. From Statements of Work to Technical Design blueprints, every piece of documentation was meticulously crafted to provide clarity and direction for all stakeholders.
-
->#### Big Data & Scalability: 
+#### Big Data & Scalability: 
 Pioneered the development of robust big data solutions on the AWS platform. By leveraging services like Route53, EC2, S3, SNS, and RDS, I ensured that these systems were not only highly available but also scalable to meet the state's growing data needs.
 
 ### Deputy IT Director - Indiana Office of Technology
