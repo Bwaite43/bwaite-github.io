@@ -12,12 +12,7 @@ order: 4
 >Summary
 {: .prompt-info }
 
->Over 20 years of analytical and direct leadership with strong
->verbal and personal communication skills. Proactive approach
->by identifying risks and managing them throughout the project.
->Dedicated to maintaining a reputation built on quality, service, and
->uncompromising ethics viewing continuous improvment as a way of
->life – not an exception.
+>With over 20 years of experience serving in strategic analysis and leadership roles, I've honed a >unique blend of communication skills and technological expertise as a Solution Architect. My >proficiency extends to AWS, Azure, DevOps, and AI, enabling me to design and implement cutting-edge >solutions. My approach to risk mitigation and project management enhances operational efficiency and >drives growth. Upholding high standards of quality, service, and ethical business conduct is at the >heart of my professional ethos. In the fast-paced tech industry, I see continuous improvement not as >an option, but a vital element of enduring success.
 
 
 >Contact
