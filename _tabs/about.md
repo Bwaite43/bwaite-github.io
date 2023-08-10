@@ -123,26 +123,34 @@ Practitioner
 
 # RCR Technology
 
-### Senior LAN Administrator
+### Principal Technical Lead, Operations & Support
 
 >January 2009 - October 2012
 
->Lead Tech of operations, system and application support team of the nation’s first successful large-scale Curam 
->software-based benefits determination system for the State of Indiana’s $1.6 Billion Multi-vendor Eligibility 
->Modernization Project. Successfully implemented efficient time critical solutions during prime contractor disengagement. 
->Lead Tech for more than 80% of the State Of Indiana’s “Hybrid” Rollout system. 
->Facilitated seamless cutovers of new VoIP, desktop hardware, and software system across the entire 
->State Of Indiana including State offices, call centres and partner sites. 
->State-wide disaster & emergency response site setup and implementation team. 
->Identified cross-functional team problems and solutions with all partners on the project. 
->Migrated more than 50% of the users to State of Indiana Domain user accounts. 
->Developed strategies to improve document scan server solutions in a 5,000 user environment. 
->Utilized a vendor help desk solution to resolve problems more efficiently. 
->Successfully identified time critical application upgrade issues within the project timeline. 
->Focused on creating a team based “hub” solution for all partners involved in the project. 
->Improved partner relationships by creating joint responsibility on the project. 
->Provided support Q&A details to team to better improve rollout success ratio. 
->Successfully identified Curam application issues on a desktop, server and development level.
+
+>Pioneering Leadership: Directed the nation's first large-scale Curam software-driven benefits determination system as part of Indiana’s $1.6B Eligibility Modernization Project.
+
+>Crisis Navigation: Implemented swift solutions during prime contractor disengagement, ensuring project continuity.
+
+>System Deployment: Oversaw 80% of Indiana’s expansive "Hybrid" system rollout, guaranteeing seamless integration.
+
+>Tech Modernization: Championed the transition to state-of-the-art VoIP, desktop hardware, and software across all state offices, call centers, and partner sites.
+
+>Emergency Protocols: Played a pivotal role in establishing state-wide disaster and emergency response mechanisms.
+
+>Collaborative Problem-Solving: Identified and addressed cross-functional challenges, fostering synergy among project partners.
+
+>User Transition: Seamlessly migrated over users to Indiana Domain accounts, centralizing access and bolstering security.
+
+>Optimization: Enhanced document scan server strategies for a vast 5,000-user ecosystem and integrated vendor help desk solutions for quicker problem resolution.
+
+>Upgrade Oversight: Proactively identified and addressed application upgrade challenges within project timelines.
+
+>Collaboration Hub: Initiated a team-centric "hub" for streamlined communication and collaboration among all stakeholders.
+
+>Strengthened Alliances: Fostered joint project accountability, enhancing partner trust and collaboration.
+
+>Technical Mastery: Diagnosed and rectified Curam application issues across desktop, server, and development tiers.
 
 
 # Eli Lilly and Company
@@ -151,11 +159,18 @@ Practitioner
 
 >March 2008 - October 2008
 
->Researched software planned solutions and coordinated development process flow. Liaison between engineers, 
->vendors, and information technology professionals all with a variety of skill sets. Cost analysis, design 
->considerations and all with-in given timelines. 
->Implemented new software to be used in automated installs for clients. 
->Upgraded mission-critical servers from 2000 to 2003. 
->Create new documentation process flow for installation of software applications. 
->Successfully migrated 14 engineer software application upgrades. 
->Developed a process flow by listening to end users, IT support and application developers. 
+>Strategic Software Planning: Conducted comprehensive software research, devised robust solutions, and orchestrated streamlined development process flows.
+
+>Collaborative Liaison: Served as the pivotal bridge between engineers, IT professionals, and vendors, harmonizing diverse skill sets to achieve project objectives.
+
+>Cost & Design Analysis: Executed meticulous cost evaluations and design considerations, ensuring optimal outcomes within stipulated timelines.
+
+>Software Implementation: Rolled out innovative software for automated client installations, enhancing operational efficiency.
+
+>Server Upgrades: Spearheaded the upgrade of mission-critical servers from 2000 to 2003, ensuring enhanced performance and security.
+
+>Documentation Excellence: Instituted a new process flow for software application installation documentation, ensuring clarity and ease of use.
+
+>Application Migration: Successfully managed the upgrade of 14 engineer software applications, ensuring seamless transitions with minimal disruptions.
+
+>User-Centric Process Development: Crafted efficient process flows by actively engaging with end users, IT support teams, and application developers, ensuring solutions were tailored to real-world needs.
